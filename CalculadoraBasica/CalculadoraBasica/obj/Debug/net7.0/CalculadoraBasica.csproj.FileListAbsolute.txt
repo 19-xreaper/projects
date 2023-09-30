@@ -1,0 +1,14 @@
+D:\c#\CalculadoraBasica\CalculadoraBasica\bin\Debug\net7.0\CalculadoraBasica.exe
+D:\c#\CalculadoraBasica\CalculadoraBasica\bin\Debug\net7.0\CalculadoraBasica.deps.json
+D:\c#\CalculadoraBasica\CalculadoraBasica\bin\Debug\net7.0\CalculadoraBasica.runtimeconfig.json
+D:\c#\CalculadoraBasica\CalculadoraBasica\bin\Debug\net7.0\CalculadoraBasica.dll
+D:\c#\CalculadoraBasica\CalculadoraBasica\bin\Debug\net7.0\CalculadoraBasica.pdb
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.AssemblyInfoInputs.cache
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.AssemblyInfo.cs
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.csproj.CoreCompileInputs.cache
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.dll
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\refint\CalculadoraBasica.dll
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.pdb
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\CalculadoraBasica.genruntimeconfig.cache
+D:\c#\CalculadoraBasica\CalculadoraBasica\obj\Debug\net7.0\ref\CalculadoraBasica.dll
