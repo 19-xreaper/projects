@@ -1,0 +1,14 @@
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\bin\Debug\net7.0\CalificacionesPromedio.exe
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\bin\Debug\net7.0\CalificacionesPromedio.deps.json
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\bin\Debug\net7.0\CalificacionesPromedio.runtimeconfig.json
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\bin\Debug\net7.0\CalificacionesPromedio.dll
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\bin\Debug\net7.0\CalificacionesPromedio.pdb
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.AssemblyInfoInputs.cache
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.AssemblyInfo.cs
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.csproj.CoreCompileInputs.cache
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.dll
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\refint\CalificacionesPromedio.dll
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.pdb
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\CalificacionesPromedio.genruntimeconfig.cache
+D:\c#\CalificacionesPromedio\CalificacionesPromedio\obj\Debug\net7.0\ref\CalificacionesPromedio.dll
