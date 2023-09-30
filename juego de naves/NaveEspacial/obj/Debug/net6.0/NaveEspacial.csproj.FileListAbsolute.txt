@@ -1,0 +1,28 @@
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\bin\Debug\net6.0\NaveEspacial.exe
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\bin\Debug\net6.0\NaveEspacial.deps.json
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\bin\Debug\net6.0\NaveEspacial.runtimeconfig.json
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\bin\Debug\net6.0\NaveEspacial.dll
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\bin\Debug\net6.0\NaveEspacial.pdb
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfoInputs.cache
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfo.cs
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.csproj.CoreCompileInputs.cache
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.dll
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\refint\NaveEspacial.dll
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.pdb
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\NaveEspacial.genruntimeconfig.cache
+D:\c#\JuegoDeNaves-Parte4-master\NaveEspacial\obj\Debug\net6.0\ref\NaveEspacial.dll
+D:\c#\juego de naves\NaveEspacial\bin\Debug\net6.0\NaveEspacial.exe
+D:\c#\juego de naves\NaveEspacial\bin\Debug\net6.0\NaveEspacial.deps.json
+D:\c#\juego de naves\NaveEspacial\bin\Debug\net6.0\NaveEspacial.runtimeconfig.json
+D:\c#\juego de naves\NaveEspacial\bin\Debug\net6.0\NaveEspacial.dll
+D:\c#\juego de naves\NaveEspacial\bin\Debug\net6.0\NaveEspacial.pdb
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfoInputs.cache
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.AssemblyInfo.cs
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.csproj.CoreCompileInputs.cache
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.dll
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\refint\NaveEspacial.dll
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.pdb
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\NaveEspacial.genruntimeconfig.cache
+D:\c#\juego de naves\NaveEspacial\obj\Debug\net6.0\ref\NaveEspacial.dll
